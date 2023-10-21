@@ -1,0 +1,13 @@
+{
+  "name": "cybersyn-ja",
+  "version": "1.0.0",
+  "title": "Project Cybersyn Japanese locale",
+  "author": "atu4403",
+  "factorio_version": "1.1",
+  "description": "project-cybersyn と、cybersyn-combinatorの日本語化を行います",
+  "dependencies": [
+    "base",
+    "? cybersyn",
+    "? cybersyn-combinator"
+  ]
+}
